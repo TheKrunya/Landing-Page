@@ -57,7 +57,8 @@ npm-debug.log
 .vscode
 
 # coverage
-
+/server/logs/
+/server/tmp/
 /coverage
 /_build
 .env
